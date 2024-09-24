@@ -6,7 +6,7 @@ TerraTrade is a smart marketplace connecting local farmers with consumers. Farme
    - $ virtualenv backend
    - $ cd backend
    - $ Scripts\activate 
-2. pip install Django django-cors-headers djangorestframework psycopg2 django-phonenumber-field
+2. pip install Django django-cors-headers djangorestframework psycopg2 django-phonenumber-field django-phonenumbers
 3. For starting django backend project, run:
    - $ django-admin startproject TerraTrade
    - $ mv TerraTrade src
